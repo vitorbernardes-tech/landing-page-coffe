@@ -15,4 +15,4 @@ E por fim temos a nossa localização 📍, venha conhecer "O Melhor Café da Re
 * Professor Alexandre
 * Rodolfo Mori
 
-Aprendi muito para entender o site de café professor foi legal demais tmj 🤟
+Aprendi muito para entender o site de cafeteria professor foi muito bom tmj 🤟
