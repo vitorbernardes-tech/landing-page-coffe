@@ -1,5 +1,5 @@
 # landing-page-coffe ☕
-Uma landing page de Cafeteria 
+Uma landing page de Cafeteria o
 
 # Tecnologias utilizadas 🤖
 * HTML5
